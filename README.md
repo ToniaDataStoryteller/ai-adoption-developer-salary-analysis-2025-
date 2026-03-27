@@ -7,7 +7,7 @@
 
 **Framework:** Python (Pandas, Scikit-Learn, Seaborn)  
 
-**GitHub Repository:** [ai-adoption-developer-salary-analysis-2025](https://github.com/ToniaDataStoryteller/ai-adoption-developer-salary-analysis-2025)  
+**GitHub Repository:** [ai-adoption-developer-salary-analysis-2025](https://github.com/ToniaDataStoryteller/ai-adoption-developer-salary-analysis-2025-)  
 
 **LinkedIn Profile:** [Tonia M. Ethuakhor](https://www.linkedin.com/in/tonia-ethuakhor/)
 
