@@ -1,0 +1,25 @@
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# --- Python Cache & Build ---
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
+
+# --- Environment & Credentials ---
+.env
+venv/
+env/
+.venv/
+
+# --- Operating System ---
+.DS_Store
+Thumbs.db
+
+# --- Large Datasets ---
+# Only upload the link in README, not the heavy CSV files
+datasets/*.csv
